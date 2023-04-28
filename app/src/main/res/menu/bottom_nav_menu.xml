@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Add Income"
+        android:id="@+id/add_income_btn"
+        android:iconTint="@color/green"
+        />
+    <item
+        android:title="Add Expense"
+        android:id="@+id/add_expense_btn"
+        android:iconTint="@color/red"
+        />
+
+</menu>

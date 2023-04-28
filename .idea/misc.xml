@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ruth/Documents/software courses/4th year/1st semester/Mobile Application Development/Group Assignment/Expense-Manager/app/src/main/res/layout/activity_add_income.xml" value="0.10461956521739131" />
         <entry key="..\:/Users/ruth/Documents/software courses/4th year/1st semester/Mobile Application Development/Group Assignment/Expense-Manager/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ruth/Documents/software courses/4th year/1st semester/Mobile Application Development/Group Assignment/Expense-Manager/app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="..\:/Users/ruth/Documents/software courses/4th year/1st semester/Mobile Application Development/Group Assignment/Expense-Manager/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22" />
       </map>
     </option>
   </component>
